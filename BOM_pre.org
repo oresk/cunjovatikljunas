@@ -1,0 +1,12 @@
+|Price | Mult| Name | From where|
++------+
+| 16usd| 1| BT module NRF52382 same as on feather| aliexpress|
+|1 usd| 1 | main pcb| dirtypcb or something
+| 2 usd | 1 | led pcb|   dirtypcb or something
+| .5 usd| ???| WS2813B| aliexpress|
+||1|usb connector|
+|||prstohvat pasive|
+||1|baterija| aliexpress ili mozda ipak netko iz europe
+||1|punjac za bateriju MCP73831 ili ipak nesto drugo| farnell
+||1|cunj ?| od negdje |
+||
