@@ -7,6 +7,7 @@
 - vrijeme rada / velicina baterije
 - wireless DMX
 - Komunikacija preko BT i USB-a
+- Akcelerometar
 
 # Tehnicka pitanja
 - Brzina updateanja + koliko cesto + finalni utjecanj na snimanje kamerom i gledanje
@@ -31,6 +32,8 @@
     - SW
 - Animiranje
     - koje sve mogucnosti mogu biti
+        - slozimo tako da imamo sampleove, ali spremamo samo diffove (ako se nesto ne mjenja od proslog stanja to nekako oznacimo i ustedimo malo mjesta)
+        - prijelaz na slijedeci korak osim vremena moze biti i neki drugi impuls (uhvatio si cunj u ruku, impuls izvana koji bi se slao u syncu sa muzikom ili necim drugim)
     - kako spremati animacije
 - Boje
     - Istraziti one color space-ove i translacije izmedju njih
@@ -41,4 +44,5 @@
 - Color transformations libs 
     - https://github.com/dmilos/color
     - https://github.com/ratkins/RGBConverter
-    - 
+- AdaFruit Feather NRF52 Full Usermanual - https://cdn-learn.adafruit.com/downloads/pdf/bluefruit-nrf52-feather-learning-guide.pdf
+- NRF52382 module - https://cdn-learn.adafruit.com/assets/assets/000/040/357/original/MDBT42Q-Version_B.pdf?1490125904
