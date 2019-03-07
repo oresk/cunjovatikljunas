@@ -1,0 +1,6 @@
+- Setup fw loading with bootloader
+    - Investigate mynewt bootloader in general
+- Setup BT serial connection
+- Figure out relationship between functionality available in mynewt and things needed to be written
+    - OUTPUT - block diagram of fw
+- Protobuf
